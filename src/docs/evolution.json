@@ -242,7 +242,7 @@
                         "description": "The required form for which this evolution can occur.",
                         "type": {
                             "type": "NamedAPIResource",
-                            "of": "PokemonSpecies"
+                            "of": "Pokemon"
                         }
                     },
                     {
